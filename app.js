@@ -1,4 +1,4 @@
-  // Initialize the Web Speech API
+  // Initialize the Web Speech API's
   const speechSynthesis = window.speechSynthesis;
 
   function speak() {
